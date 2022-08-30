@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>signaler</title>
+	<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+   <link href="assets/css/light-bootstrap-dashboard.css?v=1.4.0" rel="stylesheet"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container">
+  <!-- Trigger the modal with a button -->
+  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Signaler un problème</button>
+
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog" style="margin-top:15%;">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Signaler une erreur</h4>
+        </div>
+        <div class="modal-body">
+          
+          <div class="form-group">
+		    <input type="email" class="form-control" id="email" placeholder="Entrez votre email..." required>
+		    <br>
+		  
+		    <textarea class="form-control" id="problemeDescription" rows="3" name="descriptionProbleme" required>Veuillez décrire en détail le problème que vous avez rencontré...</textarea>
+
+		  </div>
+
+          <div>
+            <input class="btn btn-default" type="submit" value="Envoyer">
+            <button type="button" class="btn btn-default " data-dismiss="modal">Annuler</button>
+          </div>
+          
+
+        </div>
+        
+      </div>
+      
+    </div>
+  </div>
+</div> 
+
+
+
+</body>
+</html>

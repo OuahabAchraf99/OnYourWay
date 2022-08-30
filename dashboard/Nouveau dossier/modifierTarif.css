@@ -1,0 +1,10 @@
+td input{
+	border-radius: 5%;
+	border: 1.3px solid #ffca28;
+	text-align: center;
+	
+}
+td {
+	font-size: 1.1em;
+	font-weight: 500;
+}

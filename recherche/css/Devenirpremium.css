@@ -1,0 +1,365 @@
+..busi-btn{    border-radius: 0px;	color: #003333/* !important*/;	font-size: 18px; font-weight: 400; }
+.busi-btn:hover{	border-radius: 0px;	color: #FFCA28 /*!important*/;	font-size: 18px; font-weight: 400; }
+.busi-btn-active,.busi-btn-active:hover{	border-radius: 0px;	color: #FFCA28 /*!important*/;	font-size: 18px; font-weight: 400; }
+
+
+.hom_nav_btn_red{  /* sign-up button  */
+    border-radius: 0px;
+    background-color:#FFCA28; /* red color */
+    border:0px /*!important*/;
+    font-size:18px;
+    font-weight: 400;
+    padding: 7px 30px;
+    margin: 0 -25px;
+}
+.hom_nav_btn{
+    border-radius: 0px;
+    /* color:#FF0000;*//* !important; /* blue color */*/
+font-size:18px;
+    font-weight: 400;
+    padding: 7px 30px;
+}
+.navbar-centerr{
+    float:none;
+    margin: 0 auto;
+    display: table;
+    table-layout: fixed;
+}
+
+.business-logo-align {
+    float: left;
+    padding: 5px 25px;
+    font-size: 18px;
+    line-height: 20px;
+    height: 50px;
+}
+
+.btn-default {
+
+    background-color: #FFCA28;
+    border-color: #FFCA28;
+    border-radius: 10px;
+    /*  color: #EFEBEB;
+      text-shadow: -1px 0 #443F3F, 0 1px #443F3F, 1px 0 #443F3F, 0 -1px #443F3F;*/
+}
+
+
+.navbar {
+    padding-top:    0.1rem; /* 0px does not look good on small screens */
+    padding-bottom: 0.25rem;
+    font-size: smaller;      /* Just because I am using big size font */
+    line-height: 1em;
+}
+
+.btn{
+    margin-left:2px;
+}
+.btn-margin-left {
+    margin-left: 2px;
+}
+.btn-margin-right {
+    margin-right: 2px;
+}
+
+
+
+.connexion{
+    color: #FFCA28;
+    /*text-shadow: -1px 0 #EFEBEB, 0 1px #EFEBEB, 1px 0 #EFEBEB, 0 -1px #EFEBEB;*/
+}
+
+.navbar-default {
+    background-color: #EFEBEB;
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+}
+
+
+
+
+h1{
+    font-weight:600;
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform:capitalize;
+    text-align:center;
+    color:#FFF;
+    margin:40px 0px;
+}
+
+
+
+label{
+    font-weight:400;
+    font-size:15px;
+}
+
+.form-control {
+    background-color: #f5f5f5;
+    box-shadow: none;
+    color: #565656;
+    font-size:14px;
+    padding:30px 10px;
+    margin-bottom:15px;
+}
+
+
+
+.forgot{
+    text-align:left;
+    margin-top:30px;
+    font-size:15px;
+    text-decoration: underline;
+}
+
+.nav-tabs{
+    border: none;
+    margin: 0 auto;
+    display: table;
+}
+
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:hover,
+.nav-tabs>li.active>a:focus{
+    border: none;
+    font-size:16px;
+}
+
+.login{
+    position: relative;
+    top: 20px;
+}
+.buttoncolor{
+    color:whitesmoke;
+    background-color: #212533;
+    border-color: #212533;
+    height: 50px;
+    width: 150px;
+
+}
+.pasinscrit{
+
+    color: black;
+    position: relative;
+    top: 30px;
+    font-size: 120%;
+    font-weight: bold;
+}
+
+
+
+
+
+
+.file-upload {
+    background-color: #ffffff;
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.file-upload-btn {
+    width: 100%;
+    margin: 0;
+    color: ##FFCA28;
+    background: ##FFCA28;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    border-bottom: 4px solid #FFCA28;
+    transition: all .2s ease;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.file-upload-btn:hover {
+    background: ##FFCA28;
+    color: #ffffff;
+    transition: all .2s ease;
+    cursor: pointer;
+}
+
+.file-upload-btn:active {
+    border: 0;
+    transition: all .2s ease;
+}
+
+.file-upload-content {
+    display: none;
+    text-align: center;
+}
+
+.file-upload-input {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    outline: none;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.image-upload-wrap {
+    margin-top: 20px;
+    border: 4px dashed #9198b2;
+    position: relative;
+}
+
+.image-dropping,
+.image-upload-wrap:hover {
+    background-color: #FFCA28;
+    border: 4px dashed #ffffff;
+}
+
+.image-title-wrap {
+    padding: 0 15px 15px 15px;
+    color: #222;
+}
+
+.drag-text {
+    text-align: center;
+}
+
+.drag-text h3 {
+    font-weight: 100;
+    text-transform: uppercase;
+    color: #EFEBEB;
+    padding: 60px 0;
+}
+
+.file-upload-image {
+    max-height: 200px;
+    max-width: 200px;
+    margin: auto;
+    padding: 20px;
+}
+
+.remove-image {
+    width: 200px;
+    margin: 0;
+    color: #fff;
+    background: #FFCA28;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    border-bottom: 4px solid #FFCA28;
+    transition: all .2s ease;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.remove-image:hover {
+    background: #EFEBEB;
+    color: #ffffff;
+    transition: all .2s ease;
+    cursor: pointer;
+}
+
+.remove-image:active {
+    border: 0;
+    transition: all .2s ease;
+}
+
+
+
+.buttton{
+    text-align: center;
+    margin:0 auto;
+
+}
+
+.shadow-box{
+    -moz-box-shadow: 0 0 20px 20px #888;
+    -webkit-box-shadow: 0 0 20px 20px#888;
+    box-shadow: 0 0 7px 7px #888;
+}
+
+
+
+
+input[type=button], input[type=submit], input[type=reset]  {
+    background-color:#2C3247;
+    border: none;
+    color: white;
+    padding: 15px 80px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 13px;
+    -webkit-box-shadow: 0 10px 30px 0 rgba(95,186,233,0.4);
+    box-shadow: 0 10px 30px 0 rgba(95,186,233,0.4);
+    -webkit-border-radius: 5px 5px 5px 5px;
+    border-radius: 5px 5px 5px 5px;
+    margin: 5px 20px 40px 20px;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover  {
+    background-color: #FFCA28;
+}
+
+input[type=button]:active, input[type=submit]:active, input[type=reset]:active  {
+    -moz-transform: scale(0.95);
+    -webkit-transform: scale(0.95);
+    -o-transform: scale(0.95);
+    -ms-transform: scale(0.95);
+    transform: scale(0.95);
+}
+
+
+.imagePreview {
+    width: 100%;
+    height: 180px;
+    background-position: center center;
+    background:url(http://cliquecities.com/assets/no-image-e3699ae23f866f6cbdf8ba2443ee5c4e.jpg);
+    background-color:#fff;
+    background-size: cover;
+    background-repeat:no-repeat;
+    display: inline-block;
+    box-shadow:0px -3px 6px 2px rgba(0,0,0,0.2);
+}
+.btn-primary
+{
+    display:block;
+    border-radius:0px;
+    box-shadow:0px 4px 6px 2px rgba(0,0,0,0.2);
+    margin-top:-5px;
+}
+.imgUp
+{
+    margin-bottom:15px;
+}
+.del
+{
+    position:absolute;
+    top:0px;
+    right:15px;
+    width:30px;
+    height:30px;
+    text-align:center;
+    line-height:30px;
+    background-color:rgba(255,255,255,0.6);
+    cursor:pointer;
+}
+.imgAdd
+{
+    width:30px;
+    height:30px;
+    border-radius:50%;
+    background-color:#4bd7ef;
+    color:#fff;
+    box-shadow:0px 0px 2px 1px rgba(0,0,0,0.2);
+    text-align:center;
+    line-height:30px;
+    margin-top:0px;
+    cursor:pointer;
+    font-size:15px;
+}

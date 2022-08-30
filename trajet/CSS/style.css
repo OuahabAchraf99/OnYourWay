@@ -1,0 +1,28 @@
+@charset"UTF-8";
+
+footer{
+
+}
+
+.description{
+	background: #FFCA28;
+	height: 100px;
+}
+.description>div{
+	color: #12141C;
+}
+.container-fluid{
+	background-color: #212533;
+	color: #EFEBEB;
+}
+
+.bar_copyright{
+	height: 35px;
+	background-color: #12141C;
+	color: #EFEBEB;
+	padding: 8px;
+}
+
+#imageAcceuil{
+	width: auto;
+}

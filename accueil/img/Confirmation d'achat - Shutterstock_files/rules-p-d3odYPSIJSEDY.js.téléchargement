@@ -1,0 +1,7 @@
+/*
+ Quantcast measurement tag
+ Copyright (c) 2008-2019, Quantcast Corp.
+*/
+(function(a,g,f){try{__qc("defaults",a,{labels:"_fp.event.Default"})}catch(l){}var h=function(e){var c=f.createElement("a");c.href=e;return c},k=function(e,c,a){return e?"nc"===e?!c||!a||0>c.indexOf(a):"eq"===e?c===a:"sw"===e?0===c.indexOf(a):"ew"===e?(e=c.length-a.length,c=c.lastIndexOf(a,e),-1!==c&&c===e):"c"===e?0<=c.indexOf(a):!1:!1},d=function(e,a,b){var d;d=g.top===g.self?f.location.href:h(f.referrer).href;k(a,d,b)?e(d):e(!1)},b=function(a){return"array"==={}.toString.call(a).match(/\s([a-zA-Z]+)/)[1].toLowerCase()?
+{labels:a.join(",")}:{labels:""+a}};__qc.apply(null,["rules",[a,null,[[b,"_fp.event.Homepage"]],[[d,"eq","https://www.shutterstock.com/home"]]],[a,null,[[b,"_fp.event.Checkout"]],[[d,"c","/checkout"]]],[a,null,[[b,"_fp.event.Plans and Pricing"]],[[d,"c","/subscribe"]]],[a,null,[[b,"_fp.event.Music"]],[[d,"c","/music"]]],[a,null,[[b,"_fp.event.Vectors"]],[[d,"c","/vectors"]]],[a,null,[[b,"_fp.event.Photos"]],[[d,"c","/photos"]]],[a,null,[[b,"_fp.event.Blog"]],[[d,"c","/blog"]]],[a,null,[[b,"_fp.event.Editorial"]],
+[[d,"c","/editorial"]]],[a,null,[[b,"_fp.event.Footage"]],[[d,"c","/video"]]],[a,null,[[b,"_fp.event.Homepage"]],[[function(a,c,d){var b;b=g.top===g.self?f.location.pathname:h(f.referrer).pathname;k(c,b,d)?a(b):a(!1)},"eq","/"]]]])})("p-d3odYPSIJSEDY",window,document);

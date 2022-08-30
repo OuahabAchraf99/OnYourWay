@@ -1,0 +1,275 @@
+.busi-btn{    border-radius: 0px;	color: #003333/* !important*/;	font-size: 18px; font-weight: 400; }
+.busi-btn:hover{	border-radius: 0px;	color: #FFCA28 /*!important*/;	font-size: 18px; font-weight: 400; }
+.busi-btn-active,.busi-btn-active:hover{	border-radius: 0px;	color: #FFCA28 /*!important*/;	font-size: 18px; font-weight: 400; }
+
+
+.hom_nav_btn_red{  /* sign-up button  */
+    border-radius: 0px;
+    background-color:#FFCA28; /* red color */
+    border:0px /*!important*/;
+    font-size:18px;
+    font-weight: 400;
+    padding: 7px 30px;
+    margin: 0 -25px;
+}
+.hom_nav_btn{
+    border-radius: 0px;
+   /* color:#FF0000;*//* !important; /* blue color */*/
+    font-size:18px;
+    font-weight: 400;
+    padding: 7px 30px;
+}
+.navbar-centerr{
+    float:none;
+    margin: 0 auto;
+    display: table;
+    table-layout: fixed;
+}
+
+.business-logo-align {
+    float: left;
+    padding: 5px 25px;
+    font-size: 18px;
+    line-height: 20px;
+    height: 50px;
+}
+
+.btn-default {
+
+    background-color: #FFCA28;
+    border-color: #FFCA28;
+    border-radius: 10px;
+  /*  color: #EFEBEB;
+    text-shadow: -1px 0 #443F3F, 0 1px #443F3F, 1px 0 #443F3F, 0 -1px #443F3F;*/
+}
+
+
+.navbar {
+    padding-top:    0.1rem; /* 0px does not look good on small screens */
+    padding-bottom: 0.25rem;
+    font-size: smaller;      /* Just because I am using big size font */
+    line-height: 1em;
+}
+
+.btn{
+    margin-left:2px;
+}
+.btn-margin-left {
+    margin-left: 2px;
+}
+.btn-margin-right {
+    margin-right: 2px;
+}
+
+
+
+.connexion{
+    color: #FFCA28;
+    /*text-shadow: -1px 0 #EFEBEB, 0 1px #EFEBEB, 1px 0 #EFEBEB, 0 -1px #EFEBEB;*/
+}
+
+.navbar-default {
+    background-color: #EFEBEB;
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+}
+
+.fbConnexion {
+
+    width:35px ;
+    height:35px;
+    margin-left: 480px;
+    margin-top: 40px;
+
+}
+.fbConnexion1 {
+    position: relative;
+    left:13px;
+    top:20px;
+    color: black;
+    font-weight:bold;
+    font-size: 128%;
+
+}
+.right_chevron{
+    width:28px ;
+    height:28px;
+    position: relative;
+    left:350px;
+    top: 17px;
+}
+
+.mailConnexion {
+
+    width:35px ;
+    height:35px;
+    position: relative;
+    right: 317px;
+    top: 110px;
+
+}
+
+.hline-bottom {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #D8D1D1; /* whichever color you prefer */
+    width: 350px;
+    position: relative;
+    top: 5px;
+    left: 520px;
+
+}
+.gmailconnexion {
+
+    width:35px ;
+    height:35px;
+    margin-left: 480px;
+    margin-top: 30px;
+
+}
+.chevronstyling{
+    width: 28px;
+    height:28px ;
+    position: relative;
+    top: 15px;
+    left:350px;
+
+}
+.connexion_mail{
+    position: relative;
+    font-size: 128%;
+    font-weight: bold;
+    color:black;
+    top: 14px;
+    left: 12px;
+}
+.pasinscription{
+    position: center;
+
+    font-weight: bold;
+    font-size: 128%;
+    color: black;
+
+}
+.fbConnexionsm{
+    width:28px ;
+    height:28px;
+    position: relative;
+    left: 250px;
+    top: 30px;
+}
+.chevronsm{
+    width:28px ;
+    height:28px;
+    position: relative;
+    left:550px;
+    top: 27px;
+
+}
+.fbConnexion1sm{
+    font-weight:bold;
+    font-size: 120%;
+    color: black;
+    position: relative;
+    left:245px;
+    top:33px;
+}
+.hline-bottomsm {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #D8D1D1; /* whichever color you prefer */
+    width: 300px;
+    position: relative;
+    top: 32px;
+    left: 285px;
+
+}
+.gmailconnexionsm{
+
+    width:28px ;
+    height:28px;
+    margin-left: 250px;
+    margin-top: 45px;
+}
+.chevronstylingsm{
+    width: 28px;
+    height:28px ;
+    position: relative;
+    top: 23px;
+    left:300px;
+
+}
+.connexion_mailsm{
+    position: relative;
+    font-size: 128%;
+    font-weight: bold;
+    color:black;
+    top: 25px;
+    left: -3px;
+}
+.pasinscriptionsm{
+    position: center;
+
+    font-weight: bold;
+    font-size: 100%;
+    color: black;
+}
+.fbConnexionxs{
+    width:20px ;
+    height:20px;
+    position: relative;
+    left: 50px;
+    top: 20px;
+}
+.chevronxs{
+    width:20px ;
+    height:20px;
+    position: relative;
+    left:220px;
+    top: 20px;
+}
+.fbConnexion1xs{
+    font-weight:bold;
+    font-size: 80%;
+    color: black;
+    position: relative;
+    left:30px;
+    top:20px;
+}
+.hline-bottomxs{
+    padding-bottom: 10px;
+    border-bottom: 1px solid #D8D1D1; /* whichever color you prefer */
+    width: 180px;
+    position: relative;
+    top: 20px;
+    left: 72px;
+}
+.gmailconnexionxs{
+    width:23px ;
+    height:20px;
+    margin-left: 50px;
+    margin-top: 32px;
+}
+.chevronstylingxs{
+    width: 20px;
+    height:20px ;
+    position: relative;
+    top: 18px;
+    left:169px;
+}
+.connexion_mailxs{
+    position: relative;
+    font-size: 80%;
+    font-weight: bold;
+    color:black;
+    top: 15px;
+    left: -17px;
+}
+.pasinscriptionsm{
+    osition: center;
+
+    font-weight: bold;
+    font-size: 70%;
+    color: black;
+}
+
+
